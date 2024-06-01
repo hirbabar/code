@@ -1,10 +1,7 @@
 # Interviews
 > Your personal guide to Software Engineering technical interviews. Video
-> solutions to the following interview problems with detailed explanations can be found [here](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g).
-<a href="https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g" style="display:block;"><img src="/images/youtube.png?raw=true"></a>
->
-> Maintainer - [Kevin Naughton Jr.](https://github.com/kdn251)
-
+> solutions to the following interview problems with detailed explanations.
+> 
 ## Translations
 
 - [简体中文](./README-zh-cn.md)
@@ -351,6 +348,8 @@ or equal to those of the children and the lowest key is in the root node
   two constants (one for an upper limit and one for a lower limit) for sufficiently large values
 
 ![Alt text](/images/theta.png?raw=true "Theta Notation")
+
+> Maintainer - [Kevin Naughton Jr.](https://github.com/kdn251)
 
 ## Video Lectures
 * Data Structures
